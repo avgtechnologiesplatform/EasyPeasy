@@ -1,0 +1,4 @@
+c:\users\roi.lipman\documents\visual studio 2010\Projects\EasyPeasy\EasyPeasy\bin\EasyPeasy.dll
+c:\users\roi.lipman\documents\visual studio 2010\Projects\EasyPeasy\EasyPeasy\bin\EasyPeasy.pdb
+c:\users\roi.lipman\documents\visual studio 2010\Projects\EasyPeasy\EasyPeasy\obj\Debug\EasyPeasy.dll
+c:\users\roi.lipman\documents\visual studio 2010\Projects\EasyPeasy\EasyPeasy\obj\Debug\EasyPeasy.pdb
