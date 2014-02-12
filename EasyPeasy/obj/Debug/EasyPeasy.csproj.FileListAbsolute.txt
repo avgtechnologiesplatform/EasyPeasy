@@ -1,0 +1,5 @@
+C:\Users\roi.lipman\Documents\Visual Studio 2010\Projects\EasyPeasy\EasyPeasy\bin\EasyPeasy.dll
+C:\Users\roi.lipman\Documents\Visual Studio 2010\Projects\EasyPeasy\EasyPeasy\bin\EasyPeasy.pdb
+C:\Users\roi.lipman\Documents\Visual Studio 2010\Projects\EasyPeasy\EasyPeasy\obj\Debug\EasyPeasy.csprojResolveAssemblyReference.cache
+C:\Users\roi.lipman\Documents\Visual Studio 2010\Projects\EasyPeasy\EasyPeasy\obj\Debug\EasyPeasy.dll
+C:\Users\roi.lipman\Documents\Visual Studio 2010\Projects\EasyPeasy\EasyPeasy\obj\Debug\EasyPeasy.pdb
